@@ -2,9 +2,8 @@
 
 :globe_with_meridians:
 
->This repo about my training in Smart method (:
-
-so i will share all my task here  :fire:  
+## This repo about my training in the Smart method (:
+## so I will share all my tasks here   :fire:  
 
 Task 1:
 -------------------------
