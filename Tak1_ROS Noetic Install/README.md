@@ -25,7 +25,7 @@ cd ~/ros_catkin_ws
 rosinstall_generator robot perception --rosdistro noetic --deps --tar > noetic-robot-perception.rosinstall
 mkdir ./src
 vcs import --input noetic-robot-perception.rosinstall ./src
-~~
+~~~
 
 ----------------------
 
