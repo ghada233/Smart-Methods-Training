@@ -20,7 +20,8 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 ~~~~
 
 The previously stored map will now appear, and I must move the robot and choose 2D posture estimation so that the lidar sensors' data matches the map.
-![Picture4](https://user-images.githubusercontent.com/70041510/186396648-055abc99-e184-4eb6-b63b-51e1c1c3e211.png)
+![Picture6](https://user-images.githubusercontent.com/70041510/186397548-cdf5f911-c3ea-4cea-8d39-da7a85eeef80.png)
+
 
 >now use a keyboard to move the bot:
 ~~~
