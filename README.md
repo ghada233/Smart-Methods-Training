@@ -18,7 +18,4 @@ Task 3:
 -------------------------
 [Task3](https://github.com/ghada233/Smart-Methods-Training/blob/main/Task3/README.md)
 
-Task 4:
--------------------------
-[Task4](https://github.com/ghada233/Smart-Methods-Training/tree/main/Task4)
 
