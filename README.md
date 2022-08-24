@@ -12,6 +12,7 @@ Task 1:
 
 Task 2:
 -------------------------
+[Task_SLAM](https://github.com/ghada233/Smart-Methods-Training/tree/main/Task2_SLAM)
 
 Task 3:
 -------------------------
